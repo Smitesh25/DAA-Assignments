@@ -1,6 +1,7 @@
-Team Members
+Team Members 
 
-Enrollment No.	Name	GithubId
+
+
 IIT2019090	Smitesh Hadape ; 
 IIT2019091	Varun Bhardwaj ; 
 IIT2019092	Tanish Patel ; 
