@@ -58,7 +58,7 @@ Hence k = log2 (n)
 Hence, the time complexity for the above approach is log2 (n).
 
 Space Complexity
-o(logn) because of the recussion call stack 
+o(logn) because of the recursion call stack 
 
 References
 
