@@ -28,33 +28,33 @@ Run the code.cpp file in a compiler
 
 * Test Case-1
 
-Input:
+    Input:
 
-2 4 6 10 12
+    2 4 6 10 12
 
-Out:
+    Out:
 
-8
+    8
 
 * Test Case-2
 
-Input:
+    Input:
 
-5 9 13 21
+    5 9 13 21
 
-Out:
+    Out:
 
-17
+    17
 
 * Test Case-3
 
-Input:
+    Input:
 
-1 2 3 4 5
+    1 2 3 4 5
 
-Out:
+    Out:
 
-No term missing
+    No term missing
 
 # Theory
 The given problem can besolved using divide and conquer approach which is similar to binarysearch.Basically we divide the givenproblem into smaller sub-problemsand appropriately combine their solutions to get the solution to the main problem.
